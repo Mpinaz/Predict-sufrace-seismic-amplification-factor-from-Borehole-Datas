@@ -17,7 +17,7 @@ Kwak and H. Kawase. https://doi.org/10.5880/GFZ.2.1.2020.006)
 
 ## Features
 
-We used a set of 18 features taken from both datasets, more information on those features are located in the [Paper](Paper.pdf).
+We used a set of 18 features taken from both datasets, more information on features are located in the [Paper](Paper.pdf) on chapter 2.2.
 
 ## Models
 
