@@ -1,0 +1,1 @@
+# Prediction-of-sufrace-seismic-amplification-factor-Given-Borehole-Datas
