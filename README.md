@@ -1,4 +1,4 @@
-# Prediction of sufrace seismic amplification factorGiven Borehole Datas
+# Prediction of sufrace seismic amplification factor from borehole datas
 
 Work done by Matteo Pinato (pinato.2061665@studenti.uniroma1.it) and Sofia De Angelis (deangelis.2126369@studenti.uniroma1.it) for the exam: Earthquakes Physics for Machine Learing.
 
