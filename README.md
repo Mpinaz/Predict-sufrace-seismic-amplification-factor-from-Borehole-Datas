@@ -16,7 +16,7 @@ The dataset is composed of Kik-Net Datas retrieved and reogrinized in tabular da
 
 ## Features
 
-We used a set of 18 features taken from both datasets, more information on features are located in the [Paper](Paper.pdf) on chapter 2.2.
+We used a set of 18 features taken from both datasets, more information on features are located on the [Paper](Paper.pdf) on chapter 2.2.
 
 ## Models
 
