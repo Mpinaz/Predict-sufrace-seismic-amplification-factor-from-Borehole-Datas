@@ -10,8 +10,7 @@ This study proposes a Deep Neural Network based approach for predicting the seis
 
 The dataset is composed of Kik-Net Datas retrieved and reogrinized in tabular datas:
 
-- Open-Source file Database from Strong Motion Stations (C. Zhu, G. Weatherill, F. Cotton, M. Pilz, D. Y.
-Kwak and H. Kawase. https://doi.org/10.5880/GFZ.2.1.2020.006)
+- Zhu, Chuanbin; Weatherill, Graeme; Cotton, Fabrice; Pilz, Marco; Kwak, Dong Youp; Kawase, Hiroshi (2020): An Open-Source Site Database of Strong-Motion Stations in Japan: K-NET and KiK-net. V. 1.0.0. GFZ Data Services. https://doi.org/10.5880/GFZ.2.1.2020.006
 
 - Kik-Net/K-NET flatflie with automatically processed ground motions recorded between 1996 and 2024 (K. Loviknes, S. von Specht, H. Lilienkamp, A. H¨ndel and F. Cotton https://doi.org/10.5880/GFZ.LKUT.2025.001)
 
